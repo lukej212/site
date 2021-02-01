@@ -1,13 +1,38 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
+title: Why Budgeting Isn't Enough
+date: "2021-02-01"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+There are two things we need to have right relationship and money:
+
+1. Understanding that our money isn't ours
+2. A budget
+
+When we start getting our finances in order, the first thing we usually
+hear is that we need to make a budget. I would agree. Without a budget
+we have no idea how much money we have or how much money we're spending.
+A budget is a plan for our money and we know that to fail to plan is
+to plan to fail.
+
+But a budget in itself does not change our habits. For those of us who are
+even slightly paying attention, our budget merely reveals the difference between
+the habits we currently have and the habits we aspire to have. This difference
+is revealed progressively as we track our spending and record our spending in
+our budget. With this information each of us will follow a different path
+that is not not guided by our budget, but by the relationship we have with money.
+
+Our relationship with money is like the relationship between an untamed horse
+and it's master. Depending on our upbringing and instruction with money, we
+either have a high level of confidence as to our competence to tame the wild
+beast of money, or we have a fear of money and avoid taming the beast. In either
+case money is a beast, but whether we are confident and competent or fearful and
+ignorant, we can
+all learn how to tame this beast. This relationship determines the path we take
+as we discover, through a budget, how tame this beast is. And let us not forget,
+we have to live with this beast our entire lives.
+
+If
 
 ## On deer horse aboard tritely yikes and much
 
