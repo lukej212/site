@@ -50,3 +50,5 @@ of basketball.
 If you're wearing the jersey because that athlete is your hero, you need to find better heros.
 
 #### Thongs (flip flops)
+
+Unless you're going to the beach or about to walk into the pool or hot tub, flip flops, thongs, slides, Birkenstocks - anything you put on your feet that doesn't cover your toes should not be worn in public. I'm not saying this becuase I have some aversion to feet. Feet aren't inherently ugly, but feet are generally gross and unflattering. If you can spare the public from seeing your feet, you should. On top of that, when you expose your toes you're asking for more dirt and grime to fester with your already unclean feet. Why was it such a humble act for Jesus to wash the disciples' feet? It's because feet are so disgusting. Showing off your feet is tantamount to not flushing after a healthy bowel movement and letting your roommate flush it for you. Please don't do it. Instead, cover them with a nice pair of sneakers or a pair of oxfords. Just never let anyone see your feet.g
