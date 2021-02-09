@@ -24,26 +24,7 @@ const Layout = ({ location, title, children }) => {
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
       <main>{children}</main>
-      <form name="contact" netlify>
-        <p>
-          <label>
-            Name <input type="text" name="name" />
-          </label>
-        </p>
-        <p>
-          <label>
-            Email <input type="email" name="email" />
-          </label>
-        </p>
-        <p>
-          <button type="submit">Send</button>
-        </p>
-      </form>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
-      </footer>
+      <footer>© {new Date().getFullYear()}, Luke Johnson</footer>
     </div>
   )
 }

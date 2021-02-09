@@ -1,10 +1,56 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Initial Vision for the Blog
+date: "2021-02-09"
+description: "I've been wanting to start a blog and write for a while now, so now I'm actually doing it."
 ---
 
-This is my first post on my new fake blog! How exciting!
+#### Why I want to write
+
+The best way I know to get better at running is to start running
+and continue to run repetitively, every day. If you want to be a good runner,
+you have to run as much as possible without negatively affecting
+your health. What does this blog have to do with running? Nothing.
+My point is that because I want to get better at writing, I need
+to write more often and repetitively, but I will almost certainly
+not write every day.
+
+A friend recently told me how he's experienced ideas 'clicking' in
+his mind as he's attempted to put them in his journal. Einstein once
+said, "...if you can't explain it to a six-year-old, you don't understand
+it yourself." Clarence Thomas once said, "...the genius is not to write a 5
+cent idea in a ten dollar sentence. It's to put a ten dollar idea in a 5 cent sentence."
+At times when I put into words what I think I know, I realize I don't
+really know what I'm talking about. Writing more often, I hope, will
+allow me to delineate between what I know and what I think I know. On top
+of that, I want to be able to better elucidate what I do know.
+
+#### Why I started a blog
+
+Instead of only keeping a personal journal, I want to share my thoughts with
+my friends and the public so I can get feedback and share what has been
+on my mind with others. I want my friends to start writing too, and maybe
+as they see my work, they'll be encouraged to start creating. So many of my
+friends are engaged in learning about diverse and interesting ideas, I want them to
+compose them in writing so the rest of us can examine their minds and learn
+from them!
+
+Also, because I work with software, this will be a way for me to learn
+new software solutions. This is a very basic blogging template, but as
+the content accumulates, I hope to build a better website to manage the
+content.
+
+#### What I'll be writing about
+
+I'll be writing about what I find interesting and what I feel is important.
+Since this blog is a challenge to myself, I'll also make posts that put me
+outside my comfort zone e.g. comedy, poems, and narratives. I'll likely touch
+on topics such as theology, economics, style, books, health and fitness, running,
+etc.
+
+If you're interested in following the blog, consider bookmarking this page and
+visit to see if I've posted recently.
+
+<!-- This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
 
@@ -164,7 +210,7 @@ Paragraph:
 
     Code
 
-<!-- -->
+<!--
 
     Paragraph:
 
@@ -228,4 +274,4 @@ This paragraph has some `code` in it.
 
 ![Alt Text](https://placehold.it/200x50 "Image Title")
 
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
+    ![Alt Text](https://placehold.it/200x50 "Image Title") -->
