@@ -1,6 +1,6 @@
 ---
 title: Initial Vision for the Blog
-date: "2021-02-09"
+date: "2021-02-09T09:00:00.000Z"
 description: "I've been wanting to start a blog and write for a while now, so now I'm actually doing it."
 ---
 

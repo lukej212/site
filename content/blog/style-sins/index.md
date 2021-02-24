@@ -1,6 +1,6 @@
 ---
 title: Three Style Sins
-date: "2021-02-09"
+date: "2021-02-09T15:00:00.000Z"
 description: "This isn't a comprehensive list."
 ---
 
