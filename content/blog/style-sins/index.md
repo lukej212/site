@@ -22,7 +22,7 @@ The three style sins are as follows:
 
 #### Sweatpants in public
 
-Sweatpants are a wonderful invention. They're confortable, they're warm, and they make you
+Sweatpants are a wonderful invention. They're comfortable, they're warm, and they make you
 look like an athlete. They can even be used as pajama pants in the colder months! But they
 should never be worn in public, that is unless you're going to the gym or running around
 your neighborhood like Rocky Balboa. Maybe you don't care about how you look, you don't
