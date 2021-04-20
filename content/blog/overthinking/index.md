@@ -4,7 +4,7 @@ date: "2021-04-19T15:00:00.000Z"
 description: "A poem"
 ---
 
-You’re overthinking, <br>
+Overthinking? <br>
 Keep doing <br>
 Change on the fly <br>
 
