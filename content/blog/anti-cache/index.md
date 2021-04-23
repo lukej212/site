@@ -4,7 +4,7 @@ date: "2021-04-22T15:00:00.000Z"
 description: "Do you remember what you had for lunch?"
 ---
 
-We live in a world of computers. I’m writing this on a computer and you’re reading this on one. Well, I wrote the previous sentence in the past, but you read it as happening in the present. Computers need memory to function, and they wouldn’t be able to execute such incredible tasks without it. However, all memory is cached and can be out of date the moment it is stored. A cache is where data is stored in memory.
+We live in a world of computers. I’m writing this on a computer and you’re reading this on one. I wrote the previous sentence in the past, but you read it as happening in the present. Computers need memory to function, and they wouldn’t be able to execute such incredible tasks without it. However, all memory is cached and can be out of date the moment it is stored. A cache is where data is stored in memory.
 
 If you remember what I wrote in the previous paragraph, that memory is stored in a cache of sorts – the cache of your mind. Like all memory storage devices, that cache of your mind can be out of date. Nothing is for certain. What you believe to be true about the world could very well be false. A friend you knew to be in good health may now be sick. Your bank account might be compromised, and you have less money than you think. 
 
