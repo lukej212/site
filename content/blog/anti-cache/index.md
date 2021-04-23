@@ -18,4 +18,4 @@ God is the being that makes all true knowledge possible. He has revealed himself
 
 Nature reveals truth, but that truth is coagulated by scripture. Unless we know scripture, all our knowledge is nothing because any conclusion we reach contrary to what is revealed in scripture is a jumbled mess without meaning. Our striving would be striving after chaos and we would be undone. The only reason secular civilization persists is because of the mercy of God and its leaching from a Christian worldview. 
 
-So, fill your mind with scripture, which is uncorruptible truth. It is the anti-cache because it is timeless in its application. It is the definition of reality because by it we know God. Day by day you will be made new, and you will resemble more and more one who is truth, Jesus Christ. 
+So, fill your mind with scripture, which is uncorruptible truth. It is the anti-cache because it is timeless in its application. It is the definition of reality because by it we know God. Day by day you will be made new, and you will resemble more and more the One who is truth, Jesus Christ. 
